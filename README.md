@@ -4,3 +4,4 @@
 
 - 객체 리터럴 : object.js
 - 원시 값과 객체의 비교 : DataType.js
+- 함수 : function.js
