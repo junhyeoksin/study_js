@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+  </head>
+  <body> <!--자바스크립트 로그인버튼 클릭-->
+      <a href="javascript:kakaoLogin();"> <img src="" style="height:30px; width: auto;"> </a>   
+    <script src=" https://developers.kakao.com/sdk/js/kakao.js">
+
+      window.kakao.init("키 값");
+
+      function kakaoLogin(){
+          window.Kakao.Auth.login({
+            scope :' profile, account_emal  , gender   ',
+            success: function(authObj){
+                console.log(authObj);
+                window.Kakao.API.request({
+                    url:'/v2/user/me',   //현재 로그인한 정보 얻기
+                    success: res => {
+                    const Kakao_account = res.Kakao_account;
+                    console.log(Kakao_account);
+                }
+                });
+               }
+          });
+      }
+    </script>
+  </body>
+</html>
