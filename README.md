@@ -25,5 +25,5 @@
 - 기본 정보를 조회 후 수정
 <img width="40%" src="https://user-images.githubusercontent.com/92718453/156765586-51f2c0bd-8295-4dd5-a39e-8904029b5567.png"/>
 
-- 기본 정보를 추가
+- 이용권 정보 추가
 <img width="40%" src="https://user-images.githubusercontent.com/92718453/156765608-d7bf2f9a-21f0-4609-b31b-9d082de4be64.png"/>
