@@ -9,3 +9,4 @@
 - 전역변수의 문제점 : variable.js
  
 <img width="40%" src="https://user-images.githubusercontent.com/92718453/156762183-7c620b18-93af-4b65-b009-20175834ec3d.png"/>
+<img width="40%" src="https://user-images.githubusercontent.com/92718453/156762730-52432362-9481-4e4d-8cee-503cbd9597a7.png"/>
