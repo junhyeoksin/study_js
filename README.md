@@ -7,4 +7,5 @@
 - 함수 : function.js
 - 스코프 : scope.js
 - 전역변수의 문제점 : variable.js
-![회원권조회](https://user-images.githubusercontent.com/92718453/156762183-7c620b18-93af-4b65-b009-20175834ec3d.png)
+ 
+<img width="40%" src="https://user-images.githubusercontent.com/92718453/156762183-7c620b18-93af-4b65-b009-20175834ec3d.png"/>
