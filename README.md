@@ -9,6 +9,9 @@
 - 전역변수의 문제점 : variable.js
  
  
+ - 판매자 메인 페이지
+   
+ <img width="40%" src="https://user-images.githubusercontent.com/92718453/156766872-fafda82f-46df-4807-b93e-255c331ccda9.png"/>
  
  - 판매자 회원조회 페이지  
  
