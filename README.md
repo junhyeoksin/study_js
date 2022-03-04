@@ -21,11 +21,11 @@
 <img width="40%" src="https://user-images.githubusercontent.com/92718453/156762730-52432362-9481-4e4d-8cee-503cbd9597a7.png"/>
 
 - 헬스장 정보 등록/수정 페이지
-- 기본 정보를 조회
+- 기본 정보 조회
 
 <img width="40%"  src="https://user-images.githubusercontent.com/92718453/156765537-5935b3b8-9031-4157-977e-f0f2fc96aad3.png"/>
 
-- 기본 정보를 조회 후 수정
+- 기본 정보 조회 후 수정
 <img width="40%" src="https://user-images.githubusercontent.com/92718453/156765586-51f2c0bd-8295-4dd5-a39e-8904029b5567.png"/>
 
 - 이용권 정보 추가
